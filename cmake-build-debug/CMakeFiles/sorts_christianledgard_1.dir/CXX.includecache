@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/bubble.h
+sort.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/sort.h
+algorithm
+-
+iostream
+-
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/counting.h
+sort.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/sort.h
+algorithm
+-
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/insert.h
+sort.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/sort.h
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/main.cpp
+iostream
+-
+assert.h
+-
+string
+-
+mocker.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/mocker.h
+tester.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/tester.h
+bubble.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/bubble.h
+select.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/select.h
+insert.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/insert.h
+shell.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/shell.h
+quick.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/quick.h
+merge.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/merge.h
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/merge.h
+sort.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/sort.h
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/mocker.h
+random
+-
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/quick.h
+sort.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/sort.h
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/radix.h
+sort.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/sort.h
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/select.h
+sort.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/sort.h
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/shell.h
+sort.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/sort.h
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/sort.h
+algorithm
+-
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/tester.cpp
+tester.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/tester.h
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/tester.h
+stdexcept
+-
+iostream
+-
+assert.h
+-
+sort.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/sort.h
+bubble.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/bubble.h
+counting.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/counting.h
+select.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/select.h
+insert.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/insert.h
+shell.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/shell.h
+quick.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/quick.h
+radix.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/radix.h
+merge.h
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/sorts-christianledgard-1/merge.h
+
